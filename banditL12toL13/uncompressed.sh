@@ -1,6 +1,6 @@
 while true;do
 
-        cd /tmp/mfiles/ #CHANGE DIRECTORY HERE
+        cd /tmp/myfiles/ #CHANGE DIRECTORY HERE
 
         f=$(ls -1 | head -n1)
 
