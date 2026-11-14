@@ -1,7 +1,7 @@
 #!/bin/bash
 
-touch /tmp/myscript/result.txt
-echo "BEGIN" > /tmp/myscript/result.txt
+touch /tmp/myscript/result.txt #CHANGE THE SHARE IF YOU NEED
+echo "BEGIN" > /tmp/myscript/result.txt #CHANGE THE SHARE IF YOU NEED
 
 for i in {31000..32000}
         do
